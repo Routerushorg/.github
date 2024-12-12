@@ -6,7 +6,7 @@
 </head>
 <body>
 <div align="center">
-  <h1>C242-PS151 | RouteRush/h1>
+  <h1>C242-PS151 | RouteRush</h1>
   <img src="https://github.com/user-attachments/assets/62876220-a20a-473f-8e46-8e464df8d1c0" alt="Logo VegeCare">
 </div>
   <h1 allign="center">Route Rush</h1>
