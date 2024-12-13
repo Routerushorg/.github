@@ -65,9 +65,7 @@
 
   <hr>
 
-  <h2>Deployment and Access</h2>
-  <ul>
+  <h2>Deployment</h2>
     <b>Deployed Link:</b> <a href="https://drive.google.com/file/d/15ApvsG0wM1GqD-84nzNzqKoHENyR_pUd/view?usp=drive_link" target="_blank">RouteRush.apk</a>
-  </ul>
 </body>
 </html>
