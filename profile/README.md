@@ -15,13 +15,24 @@
 
   <hr>
 
-  <h2>About this Project</h2>
+  <h2>About Route Rush</h2>
   <p>
-    Route Rush is an innovative solution designed to improve delivery efficiency by optimizing routes for fuel and time savings. With the rapid growth of e-commerce, delivery services often struggle to meet the increasing demand due to inefficient routing methods. Our platform leverages machine learning and cloud computing to bridge this gap, ensuring enhanced customer satisfaction and operational efficiency.
+    Route Rush is an innovative solution designed to tackle the challenges of inefficient route planning. 
+    Leveraging advanced algorithms and real-time data, Route Rush optimizes multi-stop routes, ensuring significant savings in time and fuel,
+    it’s the ultimate solution for businesses and individuals alike.
   </p>
 
   <hr>
 
+  <h2>Benefits and Use Cases</h2>
+  <p>
+    <b>Business Efficiency:</b> Save time, reduce fuel consumption, and cut costs for delivery services.<br>
+    <b>Environmental Impact:</b> Reduced emissions by minimizing time on the road.<br>
+    <b>Personal Convenience:</b> Simplify errands and daily commutes with optimized routes.
+  </p>
+  
+  <hr>
+  
   <h2>Team Details</h2>
   <p><b>Team ID:</b> C242-PS151</p>
   <p><b>Final Selected Theme:</b> Economics Empowerment: Navigating Sustainable Economies for All</p>
@@ -34,35 +45,32 @@
         <li>M296B4KY0059 – Achmad Mukhlis – UPN “Veteran” Jawa Timur - [Active]</li>
         <li>M296B4KY0500 – Andi Muchammad Fadel Abista – UPN “Veteran” Jawa Timur - [Active]</li>
       </ul>
+      <p><b>Responsibilities:</b> Develop machine learning models for route optimization, validate models for accuracy, and integrate user-generated data to improve predictions.</p>
     </li>
     <li><b>Cloud Computing:</b>
       <ul>
         <li>C296B4KY4012 – Saiful Adi Putra – UPN “Veteran” Jawa Timur - [Active]</li>
         <li>C296B4KY3684 – Randy Yufid Dika – UPN “Veteran” Jawa Timur - [Active]</li>
       </ul>
+      <p><b>Responsibilities:</b> Host and scale the backend API using Google Cloud, manage user authentication through Firebase, and ensure data storage reliability and security.</p>
     </li>
     <li><b>Mobile Development:</b>
       <ul>
         <li>A775B4KY0919 – Charlie Valentino Sutanto – STIE IBMT - [Active]</li>
         <li>A296B4KY2114 – Jumadil Prima Dani – UPN “Veteran” Jawa Timur - [Active]</li>
       </ul>
+      <p><b>Responsibilities:</b> Build a mobile app for optimized route display, enable GPS tracking and address input, and implement a user-friendly interface.</p>
     </li>
   </ul>
 
   <hr>
 
-  <h2>Deployment</h2>
+  <h2>Deployment and Access</h2>
   <ul>
-    <li><b>Dataset Link:</b> <i>To be provided</i></li>
-    <li><b>Deployed Solution Link:</b> <i>To be provided</i></li>
-    <li><b>GitHub Repository:</b> <a href="https://github.com/Routerushorg">https://github.com/Routerushorg</a></li>
+    <li><b>Dataset Link:</b> <a href="https://drive.google.com/file/d/1QunLUfakufDa34CADh4IzXoh5k-ayXqf/view?usp=drive_link" target="_blank">route_data_osmnx.csv</a></li>
+    <li><b>Deployed Link:</b> <a href="https://drive.google.com/file/d/15ApvsG0wM1GqD-84nzNzqKoHENyR_pUd/view?usp=drive_link" target="_blank">RouteRush.apk</a></li>
     <li><b>10-Minute Presentation:</b> <i>To be provided</i></li>
     <li><b>Presentation Slides:</b> <i>To be provided</i></li>
   </ul>
-
-  <hr>
-
-  <h2>Contact</h2>
-  <p>For inquiries, contact us at <b>routerush@support.com</b>.</p>
 </body>
 </html>
