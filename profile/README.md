@@ -69,8 +69,6 @@
   <ul>
     <li><b>Dataset Link:</b> <a href="https://drive.google.com/file/d/1QunLUfakufDa34CADh4IzXoh5k-ayXqf/view?usp=drive_link" target="_blank">route_data_osmnx.csv</a></li>
     <li><b>Deployed Link:</b> <a href="https://drive.google.com/file/d/15ApvsG0wM1GqD-84nzNzqKoHENyR_pUd/view?usp=drive_link" target="_blank">RouteRush.apk</a></li>
-    <li><b>10-Minute Presentation:</b> <i>To be provided</i></li>
-    <li><b>Presentation Slides:</b> <i>To be provided</i></li>
   </ul>
 </body>
 </html>
